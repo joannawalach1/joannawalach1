@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joannawalach1
 - 🌱 I’m currently learning Java Script and React
-- 💞️ I’m looking to collaborate on interesting project
+- 💞️ I’m looking for collaboration in interesting project
 - 📫 How to reach me joanna.walach@op.pl
 
 <!---
