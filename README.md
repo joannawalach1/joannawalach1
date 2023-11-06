@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @joannawalach1
-- 🌱 I’m currently learning Java Script and React
-- 💞️ I’m looking for collaboration in interesting project
+- 👋 Hi, Jola here
+- 🌱 technologies - HTML, CSS, SCSS, React, Java, Bootstrap, PostgreSQL, Wordpress, 
+- 💞️ like to design graphic forms (logos, posters etc)
+- 💞️ like to know new unknown paths and 
 - 📫 How to reach me joanna.walach@op.pl
 
 
