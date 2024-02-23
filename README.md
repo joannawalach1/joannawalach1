@@ -23,8 +23,8 @@ Version Control: GIT
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=joanna.walach@op.pl alt=joanna.walach@op.pl /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=joanna.walach@op.pl&show_icons=true&include_all_commits=true)](https://github.com/joannawalach1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joanna.walach@op.pl&layout=compact)](https://github.com/joannawalach1/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=joannawalach1&show_icons=true&include_all_commits=true)](https://github.com/joannawalach1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannawalach1&layout=compact)](https://github.com/joannawalach1/github-readme-stats)
 
 <!---
 joannawalach1/joannawalach1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
