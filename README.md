@@ -14,7 +14,6 @@ As a quick learner, problem-solving has become somewhat of a second nature to me
 
 I believe in continuous improvement, not just in my technical skills but also in my approach to collaboration. I'm eager to be part of a team that values growth, creativity, and embraces industry best practices. Outside of coding, you'll find me exploring new technologies, attending meetups, and staying plugged into the vibrant tech community.
 
-I look forward to the possibility of discussing not just how I can contribute to your team, but also how your unique environment aligns with my aspirations and values.
 
 Here's to the exciting journey ahead!</p><p align='left'> 
 Technologies:
