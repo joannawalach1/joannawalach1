@@ -1,6 +1,7 @@
 ## Hey 👋, This is Joanna Wałach
 [![Gmail Badge](https://img.shields.io/badge/-joanna.walach@op.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanna.walach@op.pl)](mailto:joanna.walach@op.pl) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/joannawalach/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/joannawalach//)](https://www.linkedin.com/in/joannawalach//) [![Github Badge](https://img.shields.io/badge/-joannawalach1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joannawalach1/)](https://www.github.com/joannawalach1/) <p align='left'>
+
 About Me: 
 Eager Java Developer Ready to Thrive
 
