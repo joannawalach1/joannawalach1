@@ -1,4 +1,5 @@
-- 👋 Hi, Jola here, passionate about programming
+  ## Hey 👋, This is Joanna Wałach
+  - 👋 Hi, Jola here, passionate about programming
 - ✨ good, communicative English, 
 - 🌱 technologies - HTML, CSS, SCSS, React, Java, Hibernate, SpringBoot, Bootstrap, PostgreSQL, Wordpress, git
 - 💞️ like to design graphic forms (logos, posters, videos etc)
@@ -18,8 +19,6 @@ Tools: Swagger, PGAdmin, Postman
 Editors: Intellij, VSC
 Version Control: GIT
   </table>
-
-  ## Hey 👋, This is Joanna Wałach
 [![Gmail Badge](https://img.shields.io/badge/-joanna.walach@op.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanna.walach@op.pl)](mailto:joanna.walach@op.pl) 
 [![Linkedin Badge](https://img.shields.io/badge/-joanna.walach@op.pl-0072b1?style=flat&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/joanna.walach@op.pl/](https://www.linkedin.com/in/joannawalach/))]([https://www.linkedin.com/in/joanna.walach@op.pl/](https://www.linkedin.com/in/joannawalach/)) [![Github Badge](https://img.shields.io/badge/-joanna.walach@op.pl-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joanna.walach@op.pl/)](https://www.github.com/joannawalach1/) [![Twitter Badge](https://img.shields.io/badge/-joanna.walach@op.pl-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/joanna.walach@op.pl/)](https://www.twitter.com/joanna.walach@op.pl/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=joanna.walach@op.pl/)](joanna.walach@op.pl/) <p align='left'> You can view my resume <a href='joanna.walach@op.pl ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
