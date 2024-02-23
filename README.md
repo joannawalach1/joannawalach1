@@ -1,6 +1,21 @@
 ## Hey 👋, This is Joanna Wałach
 [![Gmail Badge](https://img.shields.io/badge/-joanna.walach@op.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanna.walach@op.pl)](mailto:joanna.walach@op.pl) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/joannawalach/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/joannawalach//)](https://www.linkedin.com/in/joannawalach//) [![Github Badge](https://img.shields.io/badge/-joannawalach1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joannawalach1/)](https://www.github.com/joannawalach1/) <p align='left'>Enthusiastic candidate for Java Developer position, eager to contribute and learn in a dynamic software development environment. Possesses a good foundation in Java programming and a commitment to mastering new technologies. Quick learner with strong problem-solving abilities and a collaborative mindset. Excited about gaining hands-on experience in developing efficient and maintainable code while working alongside experienced professionals. Committed to continuous improvement and staying updated on industry best practices.</p><p align='left'> 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/joannawalach/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/joannawalach//)](https://www.linkedin.com/in/joannawalach//) [![Github Badge](https://img.shields.io/badge/-joannawalach1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joannawalach1/)](https://www.github.com/joannawalach1/) <p align='left'>
+About Me: Eager Java Developer Ready to Thrive
+
+Hello,
+
+I'm [Your Name], and I'm thrilled about the prospect of diving into the world of Java development. My journey in the tech realm has been marked by a genuine passion for coding and an insatiable curiosity to explore the ever-evolving landscape of software development.
+
+My journey began with Java, and I've cultivated a strong foundation in the language, constantly pushing myself to explore its intricacies. What excites me the most is the opportunity to contribute and learn in an environment that's not just about the code but about fostering a collaborative and innovative mindset.
+
+As a quick learner, problem-solving has become somewhat of a second nature to me. I find joy in deciphering complex challenges and turning them into elegant solutions. What I'm looking for is a dynamic setting where I can soak in the wisdom of seasoned professionals and contribute to creating impactful, efficient, and maintainable code.
+
+I believe in continuous improvement, not just in my technical skills but also in my approach to collaboration. I'm eager to be part of a team that values growth, creativity, and embraces industry best practices. Outside of coding, you'll find me exploring new technologies, attending meetups, and staying plugged into the vibrant tech community.
+
+I look forward to the possibility of discussing not just how I can contribute to your team, but also how your unique environment aligns with my aspirations and values.
+
+Here's to the exciting journey ahead!</p><p align='left'> 
 Technologies:
 Backend:  [![Java](https://img.shields.io/badge/Java-1.8-blue.svg)](https://www.java.com/) [![Hibernate](https://img.shields.io/badge/Hibernate-5.5.6-blue.svg)](https://hibernate.org/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.4-green.svg)](https://spring.io/projects/spring-boot) [![Liquibase](https://img.shields.io/badge/Liquibase-4.7.1-orange.svg)](https://www.liquibase.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue.svg)](https://www.postgresql.org/) [![SQL](https://img.shields.io/badge/SQL-Standard-yellow.svg)](https://www.iso.org/standard/63555.html)
 
