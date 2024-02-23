@@ -1,11 +1,12 @@
 ## Hey 👋, This is Joanna Wałach
 [![Gmail Badge](https://img.shields.io/badge/-joanna.walach@op.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanna.walach@op.pl)](mailto:joanna.walach@op.pl) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/joannawalach/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/joannawalach//)](https://www.linkedin.com/in/joannawalach//) [![Github Badge](https://img.shields.io/badge/-joannawalach1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joannawalach1/)](https://www.github.com/joannawalach1/) <p align='left'>
-About Me: Eager Java Developer Ready to Thrive
+About Me: 
+Eager Java Developer Ready to Thrive
 
 Hello,
 
-I'm [Your Name], and I'm thrilled about the prospect of diving into the world of Java development. My journey in the tech realm has been marked by a genuine passion for coding and an insatiable curiosity to explore the ever-evolving landscape of software development.
+I'm Joanna, and I'm thrilled about the prospect of diving into the world of Java development. My journey in the tech realm has been marked by a genuine passion for coding and an insatiable curiosity to explore the ever-evolving landscape of software development.
 
 My journey began with Java, and I've cultivated a strong foundation in the language, constantly pushing myself to explore its intricacies. What excites me the most is the opportunity to contribute and learn in an environment that's not just about the code but about fostering a collaborative and innovative mindset.
 
