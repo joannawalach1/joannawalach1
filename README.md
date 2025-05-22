@@ -41,7 +41,7 @@ You can view my resume <a href='joanna.walach@op.pl ' target=_blank><u>here</u>.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=joannawalach1&show_icons=true&include_all_commits=true)](https://github.com/joannawalach1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joannawalach1&layout=compact)](https://github.com/joannawalach1/github-readme-stats)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=joannawalach1&theme=dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joannawalach1)](https://github.com/joannawalach1/github-profile-trophy)
 
 <!---
 joannawalach1/joannawalach1 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
