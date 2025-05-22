@@ -40,9 +40,6 @@ Here's to the exciting journey ahead!</p><p align='left'>
 **Version Control:**  
 [![Git](https://img.shields.io/badge/Git-Latest-orange?style=for-the-badge)](https://git-scm.com/)
 
-
-
-You can view my resume <a href='joanna.walach@op.pl ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=joannawalach1 alt=joannawalach1 /> </p>
 
