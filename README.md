@@ -17,22 +17,45 @@ I believe in continuous improvement, not just in my technical skills but also in
 
 
 Here's to the exciting journey ahead!</p><p align='left'> 
-Technologies:
-Backend:  [![Java](https://img.shields.io/badge/Java-1.8-blue.svg)](https://www.java.com/) [![Hibernate](https://img.shields.io/badge/Hibernate-5.5.6-blue.svg)](https://hibernate.org/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.4-green.svg)](https://spring.io/projects/spring-boot) [![Liquibase](https://img.shields.io/badge/Liquibase-4.7.1-orange.svg)](https://www.liquibase.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue.svg)](https://www.postgresql.org/) [![SQL](https://img.shields.io/badge/SQL-Standard-yellow.svg)](https://www.iso.org/standard/63555.html)
+### 🧰 Technologies:
 
-Frontend:  [![ReactJS](https://img.shields.io/badge/ReactJS-17.0.2-blue.svg)](https://reactjs.org/) [![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://www.w3.org/TR/html52/) [![CSS](https://img.shields.io/badge/CSS-3-blue.svg)](https://www.w3.org/Style/CSS/Overview.en.html) [![SASS](https://img.shields.io/badge/SASS-Latest-pink.svg)](https://sass-lang.com/)
+**Backend:**  
+[![Java](https://img.shields.io/badge/Java-1.8-blue.svg?style=flat-square)](https://www.java.com/)  
+[![Hibernate](https://img.shields.io/badge/Hibernate-5.5.6-blue.svg?style=flat-square)](https://hibernate.org/)  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.4-green.svg?style=flat-square)](https://spring.io/projects/spring-boot)  
+[![Liquibase](https://img.shields.io/badge/Liquibase-4.7.1-orange.svg?style=flat-square)](https://www.liquibase.org/)  
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue.svg?style=flat-square)](https://www.postgresql.org/)  
+[![SQL](https://img.shields.io/badge/SQL-Standard-yellow.svg?style=flat-square)](https://www.iso.org/standard/63555.html)
 
-Testing:  [![JUnit](https://img.shields.io/badge/JUnit-5-green.svg)](https://junit.org/junit5/) [![Mockito](https://img.shields.io/badge/Mockito-3.12.4-yellow.svg)](https://site.mockito.org/)
+**Frontend:**  
+[![ReactJS](https://img.shields.io/badge/ReactJS-17.0.2-blue.svg?style=flat-square)](https://reactjs.org/)  
+[![HTML](https://img.shields.io/badge/HTML-5-orange.svg?style=flat-square)](https://www.w3.org/TR/html52/)  
+[![CSS](https://img.shields.io/badge/CSS-3-blue.svg?style=flat-square)](https://www.w3.org/Style/CSS/Overview.en.html)  
+[![SASS](https://img.shields.io/badge/SASS-Latest-pink.svg?style=flat-square)](https://sass-lang.com/)
 
-Graphics:  [![Photoshop](https://img.shields.io/badge/Photoshop-CS6-blue.svg)](https://www.adobe.com/products/photoshop.html) [![Corel](https://img.shields.io/badge/Corel-Draw_X7-blue.svg)](https://www.coreldraw.com/)
+**Testing:**  
+[![JUnit](https://img.shields.io/badge/JUnit-5-green.svg?style=flat-square)](https://junit.org/junit5/)  
+[![Mockito](https://img.shields.io/badge/Mockito-3.12.4-yellow.svg?style=flat-square)](https://site.mockito.org/)
 
-Wordpress:  [![Wordpress](https://img.shields.io/badge/Wordpress-Latest-blue.svg)](https://wordpress.org/)
+**Graphics:**  
+[![Photoshop](https://img.shields.io/badge/Photoshop-CS6-blue.svg?style=flat-square)](https://www.adobe.com/products/photoshop.html)  
+[![Corel](https://img.shields.io/badge/Corel-Draw_X7-blue.svg?style=flat-square)](https://www.coreldraw.com/)
 
-Tools:  [![Swagger](https://img.shields.io/badge/Swagger-Latest-green.svg)](https://swagger.io/) [![PGAdmin](https://img.shields.io/badge/PGAdmin-Latest-blue.svg)](https://www.pgadmin.org/) [![Postman](https://img.shields.io/badge/Postman-Latest-orange.svg)](https://www.postman.com/)
+**WordPress:**  
+[![WordPress](https://img.shields.io/badge/Wordpress-Latest-blue.svg?style=flat-square)](https://wordpress.org/)
 
-Editors: [![IntelliJ](https://img.shields.io/badge/IntelliJ-Latest-red.svg)](https://www.jetbrains.com/idea/) [![VS Code](https://img.shields.io/badge/VS_Code-Latest-blue.svg)](https://code.visualstudio.com/)
+**Tools:**  
+[![Swagger](https://img.shields.io/badge/Swagger-Latest-green.svg?style=flat-square)](https://swagger.io/)  
+[![PGAdmin](https://img.shields.io/badge/PGAdmin-Latest-blue.svg?style=flat-square)](https://www.pgadmin.org/)  
+[![Postman](https://img.shields.io/badge/Postman-Latest-orange.svg?style=flat-square)](https://www.postman.com/)
 
-Version Control: [![Git](https://img.shields.io/badge/Git-Latest-orange.svg)](https://git-scm.com/)
+**Editors:**  
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-Latest-red.svg?style=flat-square)](https://www.jetbrains.com/idea/)  
+[![VS Code](https://img.shields.io/badge/VS_Code-Latest-blue.svg?style=flat-square)](https://code.visualstudio.com/)
+
+**Version Control:**  
+[![Git](https://img.shields.io/badge/Git-Latest-orange.svg?style=flat-square)](https://git-scm.com/)
+
 
 You can view my resume <a href='joanna.walach@op.pl ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
