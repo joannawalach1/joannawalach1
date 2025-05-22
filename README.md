@@ -9,14 +9,13 @@ Eager Java Developer Ready to Thrive
 
 Hello,
 
-I'm Joanna, and I'm thrilled about the prospect of diving into the world of Java development. My journey in the tech realm has been marked by a genuine passion for coding and an insatiable curiosity to explore the ever-evolving landscape of software development.
+Hi, I’m Joanna!
 
-My journey began with Java, and I've cultivated a strong foundation in the language, constantly pushing myself to explore its intricacies. What excites me the most is the opportunity to contribute and learn in an environment that's not just about the code but about fostering a collaborative and innovative mindset.
+Java was my first and favorite programming language — that’s where my coding journey began. I enjoy digging into its details and always learning something new. What excites me the most is working in a team where it’s not just about writing code but about solving problems together and coming up with cool, innovative solutions.
 
-As a quick learner, problem-solving has become somewhat of a second nature to me. I find joy in deciphering complex challenges and turning them into elegant solutions. What I'm looking for is a dynamic setting where I can soak in the wisdom of seasoned professionals and contribute to creating impactful, efficient, and maintainable code.
+I’m a fast learner and love tackling challenging problems — finding solutions is something I genuinely enjoy. I’m looking for a place where I can grow alongside experienced people while also bringing my own contributions by writing clean and efficient code.
 
-I believe in continuous improvement, not just in my technical skills but also in my approach to collaboration. I'm eager to be part of a team that values growth, creativity, and embraces industry best practices. Outside of coding, you'll find me exploring new technologies, attending meetups, and staying plugged into the vibrant tech community.
-
+I care about improving not only my technical skills but also how I collaborate and build a positive team vibe. Besides coding, I often go to meetups, explore new technologies, and try to stay up-to-date with what’s happening in the IT world.
 
 Here's to the exciting journey ahead!</p><p align='left'> 
 ### 🧰 Technologies:
