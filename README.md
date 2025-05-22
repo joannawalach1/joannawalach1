@@ -1,6 +1,8 @@
 ## Hey 👋, This is Joanna Wałach
-[![Gmail Badge](https://img.shields.io/badge/-joanna.walach@op.pl-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanna.walach@op.pl)](mailto:joanna.walach@op.pl) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/joannawalach/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/joannawalach//)](https://www.linkedin.com/in/joannawalach//) [![Github Badge](https://img.shields.io/badge/-joannawalach1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/joannawalach1/)](https://www.github.com/joannawalach1/) <p align='left'>
+[![Gmail Badge](https://img.shields.io/badge/-joanna.walach@op.pl-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joanna.walach@op.pl)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joannawalach/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joannawalach1)
+
 
 About Me: 
 Eager Java Developer Ready to Thrive
