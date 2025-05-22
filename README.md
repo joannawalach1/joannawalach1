@@ -19,10 +19,6 @@ I believe in continuous improvement, not just in my technical skills but also in
 Here's to the exciting journey ahead!</p><p align='left'> 
 ### 🧰 Technologies:
 
-### 🧰 Technologies:
-
-### 🧰 Technologies:
-
 **Backend:**  
 [![Java](https://img.shields.io/badge/Java-1.8-blue?style=for-the-badge)](https://www.java.com/) [![Hibernate](https://img.shields.io/badge/Hibernate-5.5.6-blue?style=for-the-badge)](https://hibernate.org/) [![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.5.4-green?style=for-the-badge)](https://spring.io/projects/spring-boot) [![Liquibase](https://img.shields.io/badge/Liquibase-4.7.1-orange?style=for-the-badge)](https://www.liquibase.org/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue?style=for-the-badge)](https://www.postgresql.org/) [![SQL](https://img.shields.io/badge/SQL-Standard-yellow?style=for-the-badge)](https://www.iso.org/standard/63555.html)
 
