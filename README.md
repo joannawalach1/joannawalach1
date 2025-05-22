@@ -3,10 +3,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joannawalach/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joannawalach1)
 
-
-About Me: 
-Eager Java Developer Ready to Thrive
-
 Hello,
 
 Hi, I’m Joanna!
