@@ -11,7 +11,7 @@ Java was my first and favorite programming language — that’s where my coding
 
 I’m a fast learner and love tackling challenging problems — finding solutions is something I genuinely enjoy. I’m looking for a place where I can grow alongside experienced people while also bringing my own contributions by writing clean and efficient code.
 
-I care about improving not only my technical skills but also how I collaborate and build a positive team vibe. Besides coding, I often go to meetups, explore new technologies, and try to stay up-to-date with what’s happening in the IT world.
+I care about improving not only my technical skills but also how I collaborate and build a positive team vibe. 
 
 Here's to the exciting journey ahead!</p><p align='left'> 
 ### 🧰 Technologies:
