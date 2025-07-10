@@ -40,6 +40,12 @@ Here's to the exciting journey ahead!</p><p align='left'>
 **Version Control:**  
 [![Git](https://img.shields.io/badge/Git-Latest-orange?style=for-the-badge)](https://git-scm.com/)
 
+### 🧠 Main Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=joannawalach1 alt=joannawalach1 /> </p>
 
